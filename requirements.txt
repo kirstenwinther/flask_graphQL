@@ -79,5 +79,5 @@ tabulate==0.8.7
 threadpoolctl==2.1.0
 toml==0.10.2
 tqdm==4.56.0
-urllib3==1.26.3
+urllib3==1.26.4
 Werkzeug==1.0.1
